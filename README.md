@@ -9,5 +9,5 @@ python download_images.py --urls urls.txt --output images/class
 ```
 This would create a folder named images with class as a subfolder and downlaod all the images from urls.txt
 
-#Note
+# Note
 Some of the images might not get downloaded due to various copyright related issues.
